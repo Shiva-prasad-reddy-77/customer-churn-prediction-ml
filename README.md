@@ -4,7 +4,6 @@ AI/ML-based customer churn prediction with explainable AI and decision system
 
 ## 📌 Overview
 This project predicts whether a customer is likely to churn using machine learning models. It also provides actionable business recommendations and explainable insights.
-
 ## 🚀 Features
 - Churn prediction using ML models
 - Stacked ensemble model (SVM + Random Forest + Logistic Regression)
