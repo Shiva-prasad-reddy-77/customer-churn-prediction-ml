@@ -207,15 +207,3 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
----
-
-### After this:
-1. Save as `README.md`
-2. Open terminal
-3. Run:
-
-```bash
-git add README.md
-git commit -m "Updated professional README"
-git push
-
